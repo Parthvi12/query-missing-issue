@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "test",
-    "slug": "test",
+    "name": "test-1",
+    "slug": "test-1",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "test_SelectQuery",
+              "id": "test-1_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -46,7 +46,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "test",
+        "id": "test-1",
         "deleted": false,
         "policies": [],
         "userPermissions": []
