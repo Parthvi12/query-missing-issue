@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "test-updated",
-    "slug": "test-updated",
+    "name": "test-2",
+    "slug": "test-2",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "test-updated_FindQuery",
+              "id": "test-2_FindQuery",
               "name": "FindQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -51,7 +51,7 @@
           "data_table"
         ],
         "validOnPageLoadActions": true,
-        "id": "test-updated",
+        "id": "test-2",
         "deleted": false,
         "policies": [],
         "userPermissions": []

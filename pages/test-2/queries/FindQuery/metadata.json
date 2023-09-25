@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "test-updated",
+    "pageId": "test-2",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -131,7 +131,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "test-updated_FindQuery",
+  "id": "test-2_FindQuery",
   "deleted": false,
   "gitSyncId": "651110c64b3f154e4ad182b8_651110e24b3f154e4ad182c1"
 }
